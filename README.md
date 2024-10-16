@@ -1,4 +1,4 @@
-#Screenshots
+# Blogging Website GIAIC Assignment
 ![blog4](https://github.com/user-attachments/assets/23e72c40-c191-430c-913d-7d93af7d7a58)
 ![blog3](https://github.com/user-attachments/assets/c454811f-9faa-44c3-9b5f-5be35f7be2f6)
 ![blog2](https://github.com/user-attachments/assets/dd36e45a-33ff-43d8-90f3-3df1ea3bc38c)
